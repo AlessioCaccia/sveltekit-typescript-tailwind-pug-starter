@@ -38,6 +38,7 @@ pnpm-lock.yaml
 # Editor files
 # .vscode
 .code-workspace
+.history
 
 # hosting providers
 .vercel

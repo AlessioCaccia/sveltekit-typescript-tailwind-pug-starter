@@ -18,5 +18,9 @@
 	// enable emmet completions for tailwind
 	"tailwindCSS.emmetCompletions": true,
 	// enable linting
-	"tailwindCSS.validate": true
+	"tailwindCSS.validate": true,
+	"[svelte]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"emmet.showExpandedAbbreviation": "never"
 }
